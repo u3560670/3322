@@ -1,0 +1,14 @@
+html {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.h {
+    background-position:top;
+    background-image: url("blue-sky.jpg");
+    height: 150px;
+}
+
+.m {
+    
+}
